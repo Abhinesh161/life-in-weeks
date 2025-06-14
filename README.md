@@ -45,8 +45,9 @@ You can run the app locally by following these steps:
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/life-in-weeks-timeline.git
-cd life-in-weeks-timeline
+git clone https://github.com/Abhinesh161/life-in-weeks.git
+cd life-in-weeks
+
 ```
 
 ### 2. Open in Browser
@@ -64,19 +65,14 @@ Just open `index.html` in any browser.
 └── README.md           # You are here!
 ```
 
----
-
-## 📸 Screenshots
-
-*(Optional: Add screenshots if you'd like)*
-
----
 
 ## 👤 Author
 
-**Your Name**
-B.Tech CSE Student | Passionate about Web Development
-GitHub: [@yourusername](https://684da7f1f9b8ab6063b05107--beautiful-kheer-261b4f.netlify.app/)
+**Abhinesh Dwivedi**
+
+B.Tech CSE Student(Will persue from this year) | Passionate about Web Development and Data Science
+
+GitHub: [Abhinesh161](https://github.com/Abhinesh161)
 
 ---
 
