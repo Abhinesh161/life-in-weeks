@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Life in Weeks Timeline</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <div class="container">
+    <h1>🌟 Your Life in Weeks Timeline 🌟</h1>
+
+    <div class="input-area">
+      <label for="birthdate">Enter your birthdate:</label>
+      <input type="date" id="birthdate" />
+      <button onclick="generateTimeline()">Show My Timeline</button>
+    </div>
+
+    <p id="weeksLived" style="font-weight: bold;"></p>
+
+    <div class="backup-controls">
+      <button onclick="exportEvents()">📤 Export Events</button>
+      <input type="file" id="importFile" accept=".json" onchange="importEvents(event)" />
+    </div>
+
+    <div class="timeline" id="timeline"></div>
+  </div>
+
+  <div class="download-wrapper">
+    <button class="download-btn" onclick="downloadTimelinePDF()">🧾 Download Timeline as PDF</button>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+  <script src="script.js"></script>
+</body>
+
+</html>
