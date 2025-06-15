@@ -34,6 +34,8 @@ The **Life in Weeks Timeline** app turns your life into a colorful grid of weeks
 ---
 ##  Presentation
 
+*Set quality to 1080p then watch-->
+
 **[Click here to watch the presentation](https://drive.google.com/file/d/1QUThPuasFXcq2fWAOWK77cWs9Z-od-UQ/view?usp=sharing)**
 
 ---
