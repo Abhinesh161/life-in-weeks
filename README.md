@@ -32,8 +32,13 @@ The **Life in Weeks Timeline** app turns your life into a colorful grid of weeks
 * [`html2pdf.js`](https://github.com/eKoopmans/html2pdf) for PDF generation
 
 ---
+##  Presentation
 
-##  Live Demo
+**[Click here to watch the presentation](https://drive.google.com/file/d/1QUThPuasFXcq2fWAOWK77cWs9Z-od-UQ/view?usp=sharing)**
+
+---
+
+##  Website link
 
 🌐 **[Click here to try the deployed app](https://684da7f1f9b8ab6063b05107--beautiful-kheer-261b4f.netlify.app/)**
 
@@ -52,15 +57,11 @@ The **Life in Weeks Timeline** app turns your life into a colorful grid of weeks
 
 You can run the app locally by following these steps:
 
-### 1. Clone the Repo
+### 1. Open the Visual Studio Code
 
-```bash
-git clone https://github.com/Abhinesh161/life-in-weeks.git
-cd life-in-weeks
+### 2.Copy all the file(index.html , style.css , script.js) to Vs Code 
 
-```
-
-### 2. Open in Browser
+### 3. Open in Browser
 
 Just open `index.html` in any browser.
 
